@@ -78,6 +78,7 @@ public class login extends AppCompatActivity {
                                 Toast.makeText(login.this, "Not sucessfull", Toast.LENGTH_SHORT).show();
                             } else {
                                 FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+                                assert user != null;
                                 uid = user.getUid();
                                 SharedPreferences sharedpreferences = getSharedPreferences("email", Context.MODE_PRIVATE);
                                 SharedPreferences.Editor editor = sharedpreferences.edit();

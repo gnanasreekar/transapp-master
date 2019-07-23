@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 import com.google.firebase.database.DataSnapshot;
@@ -22,6 +23,7 @@ public class profile extends AppCompatActivity {
     private TextView userAddressId;
     private TextView userMobileId;
     private TextView userCompletedOrdersId;
+
     String TAG = "firebase reterive";
     String uid;
     @Override
@@ -49,7 +51,8 @@ public class profile extends AppCompatActivity {
 
                 DataSnapshot detailssnap = dataSnapshot.child(uid);
                 Iterable<DataSnapshot> detailschild = detailssnap.getChildren();
-                ArrayList<>
+                ArrayList<String> data = new ArrayList<>();
+
                 Log.d(TAG, "Value is: " + value);
             }
 
