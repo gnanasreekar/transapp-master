@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Capstone</string>
+
+    <string name="title_activity_displaydetails">Displaydetails</string>
+    <string name="author">Author</string>
+    <string name="description">Description:</string>
+    <string name="content">Content</string>
+    <string name="share">Share</string>
+    <string name="title_activity_myinfo">Myinfo</string>
+    <string name="dev_name">Developed by R.Gnana Sreekar</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="feedback_name">Name</string>
+    <string name="feedback_email">Email</string>
+
+
+    <string name="submit">submit</string>
+    <string name="date">date</string>
+    <string name="udacity_capstone_2_project">Udacity CapStone--2 Project</string>
+    <string name="used_libraries">Libraries Used</string>
+    <string name="linkdin_www_linkedin_com_in_gnana_sreekar">Linkdin : www.linkedin.com/in/gnana-sreekar/</string>
+    <string name="youtube_www_youtube_com_rgstech">Youtube : www.youtube.com/rgstech</string>
+    <string name="_1_butterknife_n2_volley_n3_picasso">1.ButterKnife  \n2.Volley  \n3.Picasso  \n4.Chrome CustomTabs  \n5.AdMob  \n6.FireBase  </string>
+    <string name="author_a">author</string>
+    <string name="content_a">content</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="google_ads_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="favourites">Favourites</string>
+    <string name="no_internet">No Internet</string>
+    <string name="alert_msg">Please Connect to Internet</string>
+    <string name="pdate">Published date :</string>
+    <string name="lindin">Linkdin : www.linkedin.com/in/gnana-sreekar/</string>
+    <string name="yotube">Youtube : www.youtube.com/rgstech</string>
+    <string name="title_activity_signin">Signin</string>
+    <string name="developer_info">Developer Info</string>
+    <string name="feedback">Feedback</string>
+    <string name="info">INFO</string>
+    <string name="favoutites">Favoutites</string>
+    <string name="add_to_favoutites">add to Favoutites?</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="imageview_recicler_view">IMageView_recicler View</string>
+    <string name="toogle_button_to_add_to_fav">Toogle Button to add to fav</string>
+    <string name="image_view_to_display_image_in_displa_activity">Image View to display image in displa activity</string>
+    <string name="share_button">Share button</string>
+    <string name="webite_button">Webite button</string>
+    <string name="takes_to_feedback_activity">Takes to feedback activity</string>
+    <string name="shows_some_emojies">Shows some emojies</string>
+    <string name="intent_to_myinfo_activity">intent to myinfo activity</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="new_user_register_here">New User? Register Here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_sign_in">Already Have an Account, Sign In?</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="username">Username</string>
+    <string name="aadhar">Aadhar</string>
+    <string name="gmail">Gmail</string>
+    <string name="address">Address</string>
+    <string name="mobile">Mobile</string>
+    <string name="completed_orders">Completed Orders</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="driving_licensce_number">Driving Licensce number</string>
+
+
+</resources>
